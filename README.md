@@ -48,3 +48,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=highb33kay&show_icons=true&locale=en" alt="highb33kay" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=highb33kay&" alt="highb33kay" /></p>
+
+[![@highb33kay's Holopin board](https://holopin.me/highb33kay)](https://holopin.io/@highb33kay)
