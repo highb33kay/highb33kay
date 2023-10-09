@@ -14,19 +14,16 @@
        alt="snake" /></a>
 </div>
 
-- 🔭 I’m currently working on **DJango**
-
-- 🌱 I’m currently learning **React.js**
+- 🔭 I’m currently working with **Node, PHP, WordPress**
+  
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ibukunalesinloye](https://www.linkedin.com/in/ibukunalesinloye)
 
-- 💬 Ask me about **Django, React, Python, Wordpress**
-
-- 📫 How to reach me **hiibeekayvibe@gmail.com**
+- 💬 Ask me about **Node, JavaScript, PHP, Wordpress**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ibukunalesinloye](https://www.linkedin.com/in/ibukunalesinloye)
 
-- ⚡ Fun fact **I write Poetry Sometimes**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
