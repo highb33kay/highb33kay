@@ -26,5 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=highb33kay&" alt="highb33kay" /></p>
 
-.. image:: https://wakatime.com/share/@highb33kay/313fb59d-f6c0-45b1-ad97-71062848b044.png
-    :target: https://wakatime.com/
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@highb33kay/313fb59d-f6c0-45b1-ad97-71062848b044.png" /></a>
