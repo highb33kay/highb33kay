@@ -14,5 +14,5 @@ jobs:
         with:
           token: ${{ secrets.TOKEN }}
           repository: ${{ github.repository }}
-          isReadmeUpdate: true
+          isReadmeUpdate: false
           safeUserList: 'Liu-Yong-HK,Huniko-Team'
