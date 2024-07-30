@@ -5,7 +5,7 @@
 | -- | -- | -- | -- | -- |
 | Ibukun Alesinloye | Grocery Store. Backend Developer. | - | Nigeria | [@Ziiko Solutions Ltd.](https://github.com/Ziiko Solutions Ltd.) |
 
-## Followers <kbd>81</kbd>
+## Followers <kbd>83</kbd>
 
 <table width="100%">
   <tr width="100%">
@@ -254,16 +254,21 @@
       </a>
     </td>
     <td width="10%" align="center">
+      <a href="https://github.com/ccrisc">
+        <img src="https://avatars.githubusercontent.com/u/78849337?v=4" />
+      </a>
+    </td>
+    <td width="10%" align="center">
       <a href="https://github.com/kailashchoudhary11">
         <img src="https://avatars.githubusercontent.com/u/75559082?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/Olatomiw">
         <img src="https://avatars.githubusercontent.com/u/72770851?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/JohnMwendwa">
         <img src="https://avatars.githubusercontent.com/u/72663882?v=4" />
@@ -309,12 +314,12 @@
         <img src="https://avatars.githubusercontent.com/u/63565116?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/Nzube-ctrl">
         <img src="https://avatars.githubusercontent.com/u/61067145?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/Leona-cloud">
         <img src="https://avatars.githubusercontent.com/u/60227761?v=4" />
@@ -360,12 +365,12 @@
         <img src="https://avatars.githubusercontent.com/u/46847053?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/Danitex24">
         <img src="https://avatars.githubusercontent.com/u/45074678?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/CFCIfe">
         <img src="https://avatars.githubusercontent.com/u/41754661?v=4" />
@@ -397,6 +402,11 @@
       </a>
     </td>
     <td width="10%" align="center">
+      <a href="https://github.com/Rafaelmdcarneiro">
+        <img src="https://avatars.githubusercontent.com/u/20961091?v=4" />
+      </a>
+    </td>
+    <td width="10%" align="center">
       <a href="https://github.com/Daud94">
         <img src="https://avatars.githubusercontent.com/u/20281597?v=4" />
       </a>
@@ -406,6 +416,7 @@
         <img src="https://avatars.githubusercontent.com/u/18186995?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/shahradelahi">
         <img src="https://avatars.githubusercontent.com/u/17948260?v=4" />
@@ -416,15 +427,10 @@
         <img src="https://avatars.githubusercontent.com/u/7036736?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/gamemann">
         <img src="https://avatars.githubusercontent.com/u/6509565?v=4" />
       </a>
-    </td>
-    <td width="10%" align="center">
-    </td>
-    <td width="10%" align="center">
     </td>
     <td width="10%" align="center">
     </td>
