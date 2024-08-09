@@ -5,7 +5,7 @@
 | -- | -- | -- | -- | -- |
 | Ibukun Alesinloye | Grocery Store. Backend Developer. | - | Nigeria | - |
 
-## Followers <kbd>103</kbd>
+## Followers <kbd>102</kbd>
 
 <table width="100%">
   <tr width="100%">
@@ -514,16 +514,11 @@
       </a>
     </td>
     <td width="10%" align="center">
-      <a href="https://github.com/shahradelahi">
-        <img src="https://avatars.githubusercontent.com/u/17948260?v=4" />
-      </a>
-    </td>
-  </tr><tr width="100%">
-    <td width="10%" align="center">
       <a href="https://github.com/vivekweb2013">
         <img src="https://avatars.githubusercontent.com/u/7036736?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/gamemann">
         <img src="https://avatars.githubusercontent.com/u/6509565?v=4" />
@@ -533,6 +528,8 @@
       <a href="https://github.com/kenjinote">
         <img src="https://avatars.githubusercontent.com/u/2605401?v=4" />
       </a>
+    </td>
+    <td width="10%" align="center">
     </td>
     <td width="10%" align="center">
     </td>
