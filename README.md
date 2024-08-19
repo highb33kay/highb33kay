@@ -5,7 +5,7 @@
 | -- | -- | -- | -- | -- |
 | Ibukun Alesinloye | Grocery Store. Backend Developer. | - | Nigeria | - |
 
-## Followers <kbd>108</kbd>
+## Followers <kbd>110</kbd>
 
 <table width="100%">
   <tr width="100%">
@@ -458,16 +458,21 @@
       </a>
     </td>
     <td width="10%" align="center">
+      <a href="https://github.com/PushitChaudhary">
+        <img src="https://avatars.githubusercontent.com/u/56717453?v=4" />
+      </a>
+    </td>
+    <td width="10%" align="center">
       <a href="https://github.com/rajiss-ctrl">
         <img src="https://avatars.githubusercontent.com/u/54511911?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/Thelma101">
         <img src="https://avatars.githubusercontent.com/u/50399915?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/Alfrycodes">
         <img src="https://avatars.githubusercontent.com/u/50239868?v=4" />
@@ -513,12 +518,12 @@
         <img src="https://avatars.githubusercontent.com/u/30498666?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/Ikechukwu11">
         <img src="https://avatars.githubusercontent.com/u/29893691?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/iotstudent">
         <img src="https://avatars.githubusercontent.com/u/29554681?v=4" />
@@ -545,6 +550,11 @@
       </a>
     </td>
     <td width="10%" align="center">
+      <a href="https://github.com/deddyrumapea">
+        <img src="https://avatars.githubusercontent.com/u/14845590?v=4" />
+      </a>
+    </td>
+    <td width="10%" align="center">
       <a href="https://github.com/vivekweb2013">
         <img src="https://avatars.githubusercontent.com/u/7036736?v=4" />
       </a>
@@ -558,10 +568,6 @@
       <a href="https://github.com/kenjinote">
         <img src="https://avatars.githubusercontent.com/u/2605401?v=4" />
       </a>
-    </td>
-    <td width="10%" align="center">
-    </td>
-    <td width="10%" align="center">
     </td>
   </tr>
 </table>
