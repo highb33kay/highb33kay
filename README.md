@@ -117,11 +117,6 @@
       </a>
     </td>
     <td width="10%" align="center">
-      <a href="https://github.com/Ehtijad-Ali">
-        <img src="https://avatars.githubusercontent.com/u/141835871?v=4" />
-      </a>
-    </td>
-    <td width="10%" align="center">
       <a href="https://github.com/Dev-Arun7">
         <img src="https://avatars.githubusercontent.com/u/141426643?v=4" />
       </a>
@@ -161,12 +156,12 @@
         <img src="https://avatars.githubusercontent.com/u/126986992?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/uloamaka">
         <img src="https://avatars.githubusercontent.com/u/124861912?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/ADESUYI03">
         <img src="https://avatars.githubusercontent.com/u/122834480?v=4" />
@@ -190,6 +185,11 @@
     <td width="10%" align="center">
       <a href="https://github.com/Sorphy">
         <img src="https://avatars.githubusercontent.com/u/116808769?v=4" />
+      </a>
+    </td>
+    <td width="10%" align="center">
+      <a href="https://github.com/xmoohad">
+        <img src="https://avatars.githubusercontent.com/u/114765028?v=4" />
       </a>
     </td>
     <td width="10%" align="center">
